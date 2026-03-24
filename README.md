@@ -1,6 +1,14 @@
 # Sales Data Modeling Project 🚀
 [Data model page](/images/Data_Model_image.png)
 
+## Dataset
+
+The original dataset is too large to upload to GitHub.
+
+👉 [Download Dataset](https://drive.google.com/drive/folders/1CC7cjUBxoNmsiu_K5MZhthSuISBMOyZ1?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+
+
+
 ## Overview
 A hands-on Data Modeling project where I transformed raw Sales CSV data 
 into a structured Star Schema model with Fact and Dimension tables.
